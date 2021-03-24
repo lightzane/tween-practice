@@ -1,5 +1,5 @@
 # Tween Practice
-Just practicing ```TweenMax.min.js```. [See Demo](https://timelights.github.io/tween-practice)
+Just practicing ```TweenMax.min.js```. [See Demo](https://lightzane.github.io/tween-practice)
 
 ```html
 <h1>Headers Are Cool</h1>
